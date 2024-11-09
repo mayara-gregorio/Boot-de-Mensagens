@@ -1,7 +1,7 @@
 <h1>Boot de Mensagens</h1>
 
 <p>
-  Com esse boot você pode realizar o envio de mensagens instantâneas pelo WhatsApp.
+  Com esse boot você pode realizar o envio de mensagens instantâneas pelo WhatsApp Web.
 </p>
 
 Passos a seguir:
