@@ -24,7 +24,7 @@ Passos a seguir:
 <p>
   Depois desse passos, basta executar o projeto e preencher as informações requeridas da janela:
 </p>
-![Captura de Tela (498)](https://github.com/user-attachments/assets/81edda41-8ba9-4dcc-a411-1492e45b09c8)
+!(https://github.com/user-attachments/assets/81edda41-8ba9-4dcc-a411-1492e45b09c8)
 <p>
   Para envio de mensagens em grupos, recomenda-se um tempo maior para o carregamento das mensagens para que o envio aconteça de forma correta
 </p>
